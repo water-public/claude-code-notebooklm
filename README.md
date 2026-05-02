@@ -27,7 +27,7 @@ playwright install chromium
 このリポジトリをクローンし、`notebooklm` フォルダを Claude Code のスキルディレクトリに配置します。
 
 ```bash
-git clone https://github.com/Water-Hino/claude-code-notebooklm.git
+git clone https://github.com/water-public/claude-code-notebooklm.git
 ```
 
 クローン後、`notebooklm` フォルダを以下のパスにコピーします。
